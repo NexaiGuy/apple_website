@@ -8,18 +8,14 @@
   box-sizing: border-box;
 }
 
-html {
-  scroll-behavior: smooth;
-}
-
 body {
   color: white;
   width: 100dvw;
   overflow-x: hidden;
+  height: 100%;
   background: #000;
   border-color: #3b3b3b;
   user-select: none;
-  overflow-y: auto;
 }
 
 canvas {

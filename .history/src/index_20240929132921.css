@@ -12,10 +12,6 @@ html {
   scroll-behavior: smooth;
 }
 
-main {
-  overflow-y: auto;
-}
-
 body {
   color: white;
   width: 100dvw;
